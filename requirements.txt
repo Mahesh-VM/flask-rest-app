@@ -1,0 +1,10 @@
+Flask==2.0.1
+Flask-JWT==0.3.2
+Flask-RESTful==0.3.9
+Flask-SQLAlchemy==2.5.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+PyJWT==1.4.2
+pyodbc==4.0.31
+python-decouple==3.4
+SQLAlchemy==1.4.22
